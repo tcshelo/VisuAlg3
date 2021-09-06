@@ -1,4 +1,4 @@
-# VisuAlg3
+# VisuAlg 3.0
 
 
 
